@@ -13,8 +13,5 @@
     "rules": {
         "react/prop-types": "off",
         "semi": "error"
-    },
-    "ecmaFeatures": {
-        "jsx": true
     }
 }
